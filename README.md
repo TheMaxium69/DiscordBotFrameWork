@@ -1,4 +1,3 @@
-# TyroBotDiscord
-Le TyroBot Officiel
+# DiscordBot FrameWork
 
-<img src="https://cdn.discordapp.com/attachments/853589280299679765/870051594815807549/unknown.png">
+this is a framework to develop a discord bot with the JDA discord lib. I made functions and a system to simplify the creation of bot discord
